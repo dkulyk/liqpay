@@ -1,0 +1,18 @@
+{
+    "name": "dkulyk/liqpay",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmytro Kulyk",
+            "email": "lnkvisitor.ts@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "DKulyk\\LiqPay\\": "src/"
+        }
+    }
+}
